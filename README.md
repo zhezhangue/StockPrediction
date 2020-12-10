@@ -3,6 +3,8 @@ This is a co-worked project for ECE-GY 6143 Introduction to Machine Learning
 
 **Stock price prediction based on machine learning**
 
+**Teammate names: Zhiming Fan（zf2035）、 Qizhi Xu（qx529）、Rongji Yao（ry1107）、Zhe Zhang（zz3230）**
+
 
 
 **TO DO LIST**
