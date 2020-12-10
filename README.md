@@ -42,5 +42,5 @@ This is a co-worked project for ECE-GY 6143 Introduction to Machine Learning
     ![image](https://github.com/f619341268/hello-world/blob/master/stock_11.png)
   * **Correlation between risk and expected returns**
     ![image](https://github.com/f619341268/hello-world/blob/master/stock_12.png)
-  * **Prediction Result**
+  * **Prediction Result of RYCEY**
     ![image](https://github.com/f619341268/hello-world/blob/master/result_1.png)
