@@ -28,7 +28,7 @@ This is a co-worked project for ECE-GY 6143 Introduction to Machine Learning
     ![image](https://github.com/f619341268/hello-world/blob/master/stock_3.jpg)
   * **Moving Average of various stocks**
     ![image](https://github.com/f619341268/hello-world/blob/master/stock_5.jpg)
-  * **Dailt returns**
+  * **Daily returns**
     ![image](https://github.com/f619341268/hello-world/blob/master/stock_6.jpg)
   * **Correlation of daily returns between TSLA and AMAZON**
     ![image](https://github.com/f619341268/hello-world/blob/master/stock_7.jpg)
