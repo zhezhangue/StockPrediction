@@ -13,6 +13,4 @@ This is a co-worked project for ECE-GY 6143 Introduction to Machine Learning
 - [ ] **Find**   and **Collect** databases from [Win.d](https://www.wind.com.cn/) or other databases
 - [ ] **Figure out** ML approach would be used in our project
 
-**TO DO lIST_2.0**
 
-- [   ] **使用**
